@@ -1,5 +1,10 @@
 # CutFlow Changelog
 
+## 0.5.4
+- แก้เปิด Illustrator อัตโนมัติ โดยเปิด SVG ผ่าน Illustrator.exe โดยตรงก่อนเชื่อม COM
+- รอเอกสารเปิดจริงก่อนสร้าง Native SA layers และบันทึก AI
+- ไม่เสนอ SVG ดิบเป็นไฟล์ตัด Graphtec เพราะยังไม่ใช่ Native SA
+
 ## 0.5.3
 - แก้ ERR_EMPTY_RESPONSE หลังอัปเดตจากการรัน CutFlow ซ้ำหลาย process
 - เพิ่ม single-instance guard ป้องกันการ bind พอร์ต 8765 ซ้ำ
