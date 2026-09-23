@@ -1,6 +1,6 @@
 {
   "version": "0.5.2",
   "package": "CutFlow-update.zip",
-  "sha256": "660c678824046905f91b63201cbbd4de18aff687b8c4ee30a4f423faa4f67b55",
-  "notes": "Fix Illustrator automatic SVG opening: use ExtendScript app.open instead of COM Application.Open to avoid 'the operation was cancelled'."
+  "sha256": "8e6945a4e54855d376d1979a930b39f3d596909d3c79b8c527d15e2f84a1befc",
+  "notes": "Fix Illustrator automatic SVG opening and publish updater-compatible package with required CutFlow/ folder layout."
 }
