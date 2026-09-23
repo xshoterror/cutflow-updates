@@ -1,5 +1,9 @@
 # CutFlow Changelog
 
+## 0.5.6
+- เพิ่มไฟล์ `README_ILLUSTRATOR_LAYERS_TH.txt` ที่ขาดจากแพ็กเกจ 0.5.5
+- แก้ `[WinError 2]` ตอนสร้างชุด Graphtec/Illustrator
+
 ## 0.5.5
 - ใช้ Mark.ai ที่ Cutting Master อ่านได้จริงเป็น baseline สำหรับ Type 1
 - Type 1 regmark: `31 5.67 2.83 28.35 1224.57 1224.57 ...`
