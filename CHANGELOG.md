@@ -1,5 +1,11 @@
 # CutFlow Changelog
 
+## 0.5.3
+- แก้ ERR_EMPTY_RESPONSE หลังอัปเดตจากการรัน CutFlow ซ้ำหลาย process
+- เพิ่ม single-instance guard ป้องกันการ bind พอร์ต 8765 ซ้ำ
+- เพิ่ม health endpoint `/health`
+- updater เปิดผ่าน `run_cutflow.bat` เพียงครั้งเดียวหลังติดตั้ง
+
 ## 0.5.2
 - แก้ Illustrator error `the operation was cancelled` ตอนเปิด SVG อัตโนมัติ
 - เปลี่ยนจาก COM `Application.Open` เป็น ExtendScript `app.open()`
