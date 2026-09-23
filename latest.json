@@ -1,6 +1,6 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "package": "CutFlow-update.zip",
-  "sha256": "8e6945a4e54855d376d1979a930b39f3d596909d3c79b8c527d15e2f84a1befc",
-  "notes": "Fix Illustrator automatic SVG opening and publish updater-compatible package with required CutFlow/ folder layout."
+  "sha256": "592bc8dd9b4195b3d20e1efd70b7df7ec50bd53338b1c2d2071a86a4da2acdf3",
+  "notes": "Fix ERR_EMPTY_RESPONSE after updating by preventing duplicate CutFlow server instances; add /health and single-instance startup guard."
 }
