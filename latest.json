@@ -1,6 +1,6 @@
 {
-  "version": "0.5.3",
+  "version": "0.5.4",
   "package": "CutFlow-update.zip",
-  "sha256": "592bc8dd9b4195b3d20e1efd70b7df7ec50bd53338b1c2d2071a86a4da2acdf3",
-  "notes": "Fix ERR_EMPTY_RESPONSE after updating by preventing duplicate CutFlow server instances; add /health and single-instance startup guard."
+  "sha256": "372391be06f6777c39d5453c15173527bfbcb4a219172a0c6477c6f5e2847159",
+  "notes": "Fix Illustrator auto-open by launching SVG with Illustrator.exe before COM validation. Raw SVG is no longer presented as a usable Cutting Master Native SA fallback."
 }
