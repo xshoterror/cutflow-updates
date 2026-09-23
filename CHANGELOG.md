@@ -1,5 +1,11 @@
 # CutFlow Changelog
 
+## 0.5.5
+- ใช้ Mark.ai ที่ Cutting Master อ่านได้จริงเป็น baseline สำหรับ Type 1
+- Type 1 regmark: `31 5.67 2.83 28.35 1224.57 1224.57 ...`
+- Type 1 SA info: `SA info 0 0 0 17.01 3 0 0 0 0 0`
+- Type 2 คง reference เดิม v0.4.2 จนกว่าจะมีไฟล์ AI Type 2 ที่ยืนยันได้
+
 ## 0.5.4
 - แก้เปิด Illustrator อัตโนมัติ โดยเปิด SVG ผ่าน Illustrator.exe โดยตรงก่อนเชื่อม COM
 - รอเอกสารเปิดจริงก่อนสร้าง Native SA layers และบันทึก AI
