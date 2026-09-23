@@ -1,5 +1,11 @@
 # CutFlow Changelog
 
+## 0.5.7
+- คืน Registration Mark Type 1 และ Type 2 ให้ตรงกับ v0.5.0 ที่ใช้งานกับ Cutting Master ได้จริง
+- Type 1 กลับเป็น `SA regmark type1 auto 31 2.83 2.83 28.35 1224.57 1224.57 0 -1 0.00 0 0.00 0.00`
+- `SA info` ทั้งสอง Type กลับเป็น `SA info 0 0 0 17.01 2 0 0 0 0 0`
+- คงระบบปรับขนาดกระดาษเองและการแก้ updater/Illustrator จากรุ่นหลัง
+
 ## 0.5.6
 - เพิ่มไฟล์ `README_ILLUSTRATOR_LAYERS_TH.txt` ที่ขาดจากแพ็กเกจ 0.5.5
 - แก้ `[WinError 2]` ตอนสร้างชุด Graphtec/Illustrator
