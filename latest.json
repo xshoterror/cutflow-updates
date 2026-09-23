@@ -1,6 +1,6 @@
 {
-  "version": "0.5.4",
+  "version": "0.5.5",
   "package": "CutFlow-update.zip",
-  "sha256": "372391be06f6777c39d5453c15173527bfbcb4a219172a0c6477c6f5e2847159",
-  "notes": "Fix Illustrator auto-open by launching SVG with Illustrator.exe before COM validation. Raw SVG is no longer presented as a usable Cutting Master Native SA fallback."
+  "sha256": "1c5f324abc7cb8b1b8299dcbde5604c4e1d7b6817fc01d37f341fabba108e7bd",
+  "notes": "Use verified Mark.ai Native SA metadata for Graphtec Type 1: regmark 31 5.67 2.83 28.35... and SA info code 3. Type 2 remains on the prior v0.4.2 reference until a verified Type 2 AI sample is supplied."
 }
