@@ -1,0 +1,6 @@
+{
+  "version": "0.5.1",
+  "package": "CutFlow-update.zip",
+  "sha256": "6c5f9628138b213b26bbad69ae2bd64b0eefda1dc7ca465c5b00975047a64117",
+  "notes": "Custom paper width and height, swap orientation, remember paper size, use selected size in preview/layout/ARMS/SVG export."
+}
