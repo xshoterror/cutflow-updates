@@ -1,6 +1,6 @@
 {
-  "version": "0.5.6",
+  "version": "0.5.7",
   "package": "CutFlow-update.zip",
-  "sha256": "e17a5ddf82327d2bf5e070643007c6ad14a687466a617745f9ca1d1bf856f903",
-  "notes": "Fix WinError 2 during Graphtec/Illustrator export by restoring README_ILLUSTRATOR_LAYERS_TH.txt in the package."
+  "sha256": "5fcdfbcfdcace9d724dbe66bc7d01027a344daf98621b45794e60a9dd0153735",
+  "notes": "Restore Graphtec Type 1 and Type 2 Native SA logic exactly from v0.5.0 while retaining custom paper size and later updater/Illustrator fixes."
 }
