@@ -1,6 +1,6 @@
 {
-  "version": "0.5.7",
+  "version": "0.5.8",
   "package": "CutFlow-update.zip",
-  "sha256": "5fcdfbcfdcace9d724dbe66bc7d01027a344daf98621b45794e60a9dd0153735",
-  "notes": "Restore Graphtec Type 1 and Type 2 Native SA logic exactly from v0.5.0 while retaining custom paper size and later updater/Illustrator fixes."
+  "sha256": "10ad075dc3af07518bdc346fb94b7264dbd522c954920d8eefb533483b78a34c",
+  "notes": "CutFlow 0.5.8 — built from the working paper-test package; Registration Mark and Native SA logic unchanged."
 }
